@@ -1,0 +1,21 @@
+{
+  "name": "GalaxyPOS",
+  "env":"QA",
+  "title":"GalaxyPOS Info",
+  "message":"Application GalaxyPOS has new version! Please upgrade!",  
+  "checkbuild":true,
+  "version": "1.0.0",
+  "buildAt":"2024-11-11",
+  "versionCode": 1,  
+  "buildNumber": 202411261444,
+  "fileUrl": "https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
+  "pathUrl":"galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
+  "forced": false,  
+  "config":{
+    "alwayShow":true,
+    "applyConfig":false,
+    "showQr":false,
+    "showDiscount":false,
+    "newversionText":"New version"
+  }
+}

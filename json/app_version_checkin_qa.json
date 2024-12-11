@@ -1,0 +1,26 @@
+{
+  "name": "GalaxyCheckin",
+  "env":"QA",
+  "title":"GalaxyCheckin Info",
+  "message":"Application GalaxyCheckin has new version! Please upgrade!",  
+  "checkbuild":true,
+  "version": "1.0.0",
+  "buildAt":"2024-11-11",
+  "versionCode": 1,  
+  "buildNumber": 202411221336,
+  "fileUrl": "https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyCheckin_1.0.0_QA_2024_Nov_22_1336.apk",
+  "pathUrl":"galaxyaccess/GalaxyCheckin_1.0.0_QA_2024_Nov_22_1037.apk",
+  "forced": false,  
+  "config":{
+    "alwayShow":true,
+    "applyConfig":false,
+    "showQr":false,
+    "showDiscount":false,
+    "newversionText":"New version",
+    "welcomeText":"Welcome! Please Check In"
+  },
+  "checkinWallpaper":{
+    "changeBg":true,
+    "bgUrl":"http://172.16.100.36:8080/medias/bg.gif"    
+  }
+}

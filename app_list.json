@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "apps":[
+    {
+      "name":"GalaxyPOS",
+      "thumbUrl":"",
+      "version":"video",            
+      "ene":"QA",
+      "fileUrl":"Digital Envie [Optimum quality and size].mp4",
+      "buildNo":1230,
+      "buildDate":"2024-Nov-06"
+    },
+    {
+      "name":"Galaxy Checkin",
+      "thumbUrl":"",
+      "version":"video",            
+      "ene":"QA",
+      "fileUrl":"Digital Envie [Optimum quality and size].mp4",
+      "buildNo":1230,
+      "buildDate":"2024-Nov-06"
+    },
+    {
+      "name":"GalaxyPOS",
+      "thumbUrl":"",
+      "version":"video",            
+      "ene":"QA",
+      "fileUrl":"Digital Envie [Optimum quality and size].mp4",
+      "buildNo":1230,
+      "buildDate":"2024-Nov-06"
+    }
+  ]
+}

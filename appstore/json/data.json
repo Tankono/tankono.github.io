@@ -1,0 +1,10 @@
+{
+    "title": "My JSON Content",
+    "description": "This content is loaded from a JSON file.",
+    "items": [
+        "Item 1",
+        "Item 2",
+        "Item 3",
+        "Item 4"
+    ]
+}

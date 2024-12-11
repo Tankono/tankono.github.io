@@ -1,0 +1,29 @@
+{
+  "version": "20",
+  "playItem":[
+    {
+      "name":"Introduce Galaxy Access",      
+      "mediaType":"video",            
+      "fileName":"Digital Envie [Optimum quality and size].mp4",
+      "fileUrl":"http://172.16.100.187:8080/media/Digital Envie [Optimum quality and size].mp4",
+      "duration":0,
+      "playOrder":0
+    },
+    {
+      "name":"Introduce Galaxy Access",      
+      "mediaType":"image",            
+      "fileName":"demo.png",
+      "fileUrl":"http://172.16.100.187:8080/media/LUXE_122523.",
+      "duration":0,
+      "playOrder":1
+    },
+    {
+      "name":"Introduce Galaxy Access",      
+      "mediaType":"video",            
+      "fileName":"sample1.mp4",
+      "fileUrl":"https://drive.google.com/file/d/1ANj9FPe9RZOTlBcv3vWwKTXXmF2HeiJp/view?usp=drive_link",
+      "duration":0,
+      "playOrder":2
+    }  
+  ]
+}

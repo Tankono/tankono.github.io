@@ -1,0 +1,392 @@
+{
+  "result": true,
+  "statusCode": 200,
+  "errorMsg": "",
+  "checkinProfile": {
+    "deviceId": "SIGNATURE-7a87a16e6fd54474",
+    "activationCode": "721516188",
+    "onCheckinActivationCode": "721516188",
+    "computerName": "SIGNAGE-102",
+    "stationNumber": 102,
+    "isMultiStoresAccess": false,
+    "supportActivationCode": "",
+    "masterPassword": 0,
+    "localIP": "",
+    "isPrintAttached": false,
+    "cashDrawer": "None",
+    "isAttached": false,
+    "screenSaverTimeOut": 0,
+    "menuItemFontSizeScale": 0,
+    "isAutoRefreshWaitingList": true,
+    "isAutoRefreshClosedTicket": true,
+    "isGetLog": true,
+    "isPushMarketing": true,
+    "terminalNumber": 0,
+    "serialNumber": "",
+    "destIP": "",
+    "destPort": 0,
+    "baudRate": 0,
+    "serialPort": "COM1",
+    "timeOut": 0,
+    "commType": "TTP",
+    "giftCardReader": "Gift",
+    "addSurchargeToTip": true,
+    "creditCardGateway": "None",
+    "creditCardProcessingType": "None",
+    "giftDeviceType": "MSR",
+    "membershipDeviceType": "MSR",
+    "isAutoStartCardReader": true,
+    "signatureDeviceProfile": "None",
+    "isShowTipGuideOnSignatureTablet": true,
+    "isShowCustomerDisplay": true,
+    "isAutoCloseAfterCapture": true,
+    "isDataReset": true,
+    "isAllowOpenAnyTicket": true,
+    "supportCodeExpire": "0001-01-01T00:00:00Z",
+    "autoScheduler": {
+      "autoRestartPc": "None",
+      "restartPcTime": {
+        "hours": 0,
+        "minutes": 0,
+        "nanos": 0,
+        "seconds": 0
+      }
+    },
+    "creditCardOption": {
+      "edcType": "None",
+      "terminalPax": {
+        "terminalNum": 0,
+        "serialNo": "",
+        "serialNoOnSite": "",
+        "terminalId": "",
+        "destIp": "",
+        "destPort": 10009,
+        "baudRate": 9600,
+        "serialPort": "",
+        "timeOut": -1,
+        "isAddSurchargeToTipAdj": false,
+        "commType": "TTP",
+        "giftCardReader": "Gift"
+      },
+      "signatureDevice": "None",
+      "signaturePadProfileId": "",
+      "isGetTipFromSignaturePad": true,
+      "processTipMethod": "None",
+      "isGetDebitTip": true,
+      "isPrintSlipAfterAuth": false
+    },
+    "customerDisplay": {
+      "advertisingType": "SlideShow",
+      "defaultImage": "",
+      "isDualMonitor": false,
+      "isPoleDisplay": false,
+      "lineDisplayPort": 0,
+      "poleMessage": ""
+    },
+    "drawerId": 0,
+    "isAddTipAfterCcTrans": false,
+    "isCashDrawer": false,
+    "isTipGuide": false,
+    "printerOption": {
+      "printerBrand": "EPSON",
+      "printerConnType": "USB",
+      "ipAddress": "",
+      "modelName": "",
+      "isStationPrinter": false,
+      "printReceiptOption": "None",
+      "receiptNum": 0,
+      "slipNum": 0,
+      "workOrderNum": 0
+    },
+    "profilePaymentTypes": [
+    ],
+    "profileSettingSalon": {
+      "isPrintTechName": true,
+      "isShowClockIn": true,
+      "isShowLastService": true,
+      "isShowPriceServiceTicket": true,
+      "isShowServiceCount": true,
+      "isShowTotalSale": true,
+      "isShowDoneTime": true,
+      "printPreWorkOrderOption": "None",
+      "printWorkOrderOption": "None",
+      "showEmployeesOnBook": 0,
+      "sortServiceWaitListBy": "TicketNo"
+    },
+    "checkInTablet": {
+      "isCategory": true,
+      "isTech": true,
+      "isGetName": true,
+      "isGetLastName": false,
+      "isGetEmail": false,
+      "isGetDob": false,
+      "isCheckForAppt": true,
+      "checkApptMethod": "Always",
+      "isCheckInButton": false,
+      "isShowReferer": false,
+      "isShowPointBalance": true,
+      "screenTimeOut": 30,
+      "emailSuffix1": "",
+      "emailSuffix2": "",
+      "emailSuffix3": "",
+      "emailSuffix4": "",
+      "emailSuffix5": "",
+      "emailSuffix6": "",
+      "isSelectMultiService": false,
+      "isSelectMultiTech": false,
+      "isShowReminder": false,
+      "reminderColumns": 0,
+      "printMethod": "ToPrinter",
+      "printProfileId": "",
+      "waitSlipNum": 1,
+      "isHideUnavailableTech": false
+    },
+    "turnMonitor": {
+      "isStandAlone": true,
+      "isShowTurnGroup": false,
+      "isShowTurnMonitor": false,
+      "defaultQueueGroupId": "",
+      "isUseEstimateWaitTime": false,
+      "turnMonitorOption": "TurnList"
+    },
+    "signageDevice": {
+      "defaultShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+          {
+            "id": "xsf.1_0cwijdma3jfa",
+            "position": 1,
+            "image": "http://172.16.100.36:8080/medias/LUXE_122523.mp4"
+          },
+          {
+            "id": "xsf.lh4jo35mrl",
+            "position": 0,
+            "image": "http://172.16.100.36:8080/medias/Digital Envie [Optimum quality and size].mp4"
+          }
+        ]
+      },
+      "monShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "tueShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "wedShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "thuShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "friShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "satShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      },
+      "sunShow": {
+        "signageType": "Video",
+        "signageSlideShowSetting": {
+          "isSplitScreen": true,
+          "isLeftScreenScroll": true,
+          "isShowMarquee": true,
+          "leftSideWeight": 0,
+          "rightSideWeight": 0,
+          "leftSideImage": "",
+          "scrollDuration": 1,
+          "margueeMessage": "",
+          "slideShowDelay": 0,
+          "animationType": "Fade"
+        },
+        "webShowUrl": "",
+        "imageUrls": [
+        ]
+      }
+    },
+    "signatureDevice": {
+      "isShowPrintOption": true,
+      "isShowEmailOption": true,
+      "isShowSmsOption": true,
+      "isTipOnTicketTotal": true,
+      "isHideAlreadyTips": true,
+      "screenTimeOut": 0
+    },
+    "slideShowImage": [
+    ],
+    "slideShowDelay": 1,
+    "isOpenAnyTicket": false,
+    "isShowTakePicture": false,
+    "isUseMobileMenu": false,
+    "categoryLayout": {
+      "rows": 0,
+      "columns": 0,
+      "fontSize": 0,
+      "otherFontSize": 0,
+      "menuItemStyleOption": "Standard"
+    },
+    "menuItemLayout": {
+      "rows": 0,
+      "columns": 0,
+      "fontSize": 0,
+      "otherFontSize": 0,
+      "menuItemStyleOption": "Standard"
+    },
+    "employeeLayout": {
+      "rows": 0,
+      "columns": 0,
+      "fontSize": 0,
+      "otherFontSize": 0,
+      "menuItemStyleOption": "Standard"
+    },
+    "toolLayout": {
+      "rows": 0,
+      "columns": 0,
+      "fontSize": 0,
+      "otherFontSize": 0,
+      "menuItemStyleOption": "Standard"
+    },
+    "numberOfWaitListSlipToPrint": 0,
+    "printMethod": "ToStation",
+    "isAttachPrintMethod": false,
+    "printPosProfile": "",
+    "screenSaverTimeOutMin": 0,
+    "screenTimeOutSeconds": 30,
+    "checkApptMethod": "None",
+    "isGetFirstName": false,
+    "isRequiredLastName": false,
+    "isGetDob": false,
+    "isGetEmail": false,
+    "isShowCategory": false,
+    "isShowTech": false,
+    "isAllowSelectMultiCategories": false,
+    "isAllowSelectMultiTechs": false,
+    "isShowPointBalance": false,
+    "isHideUnavailableTech": false,
+    "isShowCheckInButton": false,
+    "isShowReferrer": false,
+    "isPushSlideShow": false,
+    "emailSuffix1": "@gmail.com",
+    "emailSuffix2": "@yahoo.com",
+    "emailSuffix3": "@aol.com",
+    "emailSuffix4": "@verizon.net",
+    "emailSuffix5": "@outlook.com",
+    "emailSuffix6": "@msn.com",
+    "masterPwd": "",
+    "profileType": "Signage",
+    "type": "ProfileModel",
+    "logo": "",
+    "createdAt": "2024-10-15T10:01:35.243423Z",
+    "updatedAt": "2024-10-15T10:29:17.272831Z",
+    "createdBy": "lucky.nails@xsofts.vn",
+    "updatedBy": "lucky.nails@xsofts.vn",
+    "id": "corp1.store13.cfec3a11-cabe-4282-a225-1263ed54dbd6",
+    "isDeleted": false,
+    "channels": "corp1.store13",
+    "uid": [
+      "UxpbYEAW8HXLhoMP9wWgsrUHjZu2"
+    ]
+  },
+  "clientTimeZone": "Asia/Ho_Chi_Minh"
+}

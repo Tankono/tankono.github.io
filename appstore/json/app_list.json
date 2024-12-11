@@ -1,0 +1,60 @@
+{
+  "version": "1",
+  "apps":[
+    {
+      "name":"GalaxyPOS",
+      "thumbUrl":"",
+      "version":"1.0.0",            
+      "env":"QA",
+      "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
+      "buildNo":1230,
+      "releaseNote":"Fixed display UI...",
+      "buildNumber": 202411261444,
+      "buildDate":"2024-Nov-06",
+      "history":[
+        {
+          "version":"0.0.0",
+          "buildDate":"2024-Nov-06",
+          "buildNumber": 202411261444,
+          "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk"
+        }
+      ]
+    },
+    {
+      "name":"Galaxy Checkin",
+      "thumbUrl":"",
+      "version":"1.0.1",            
+      "ene":"QA",
+      "buildNumber": 202411261444,
+      "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
+      "buildNo":1230,      
+      "buildDate":"2024-Nov-06",
+      "history":[
+        {
+          "version":"0.0.0",
+          "buildDate":"2024-Nov-06",
+          "buildNumber": 202411261444,
+          "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk"
+        }
+      ]
+    },
+    {
+      "name":"xPrinter",
+      "thumbUrl":"",
+      "version":"1.0.3",            
+      "ene":"QA",
+      "buildNumber": 202411261444,
+      "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
+      "buildNo":1230,
+      "buildDate":"2024-Nov-06",
+      "history":[
+        {
+          "version":"0.0.0",
+          "buildDate":"2024-Nov-06",
+          "buildNumber": 202411261444,
+          "fileUrl":"https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk"
+        }
+      ]
+    }
+  ]
+}
