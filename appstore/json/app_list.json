@@ -37,24 +37,6 @@
           "fileUrl": "https://tankono.github.io/files/latest/X-Store_1.0.0_QA_2024_Dec_11_1105.apk"
         }
       ]
-    },
-    {
-      "name": "xPrinter",
-      "thumbUrl": "",
-      "version": "1.0.3",
-      "ene": "QA",
-      "buildNumber": 202411261444,
-      "fileUrl": "https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk",
-      "buildNo": 1230,
-      "buildDate": "2024-Nov-06",
-      "history": [
-        {
-          "version": "0.0.0",
-          "buildDate": "2024-Nov-06",
-          "buildNumber": 202411261444,
-          "fileUrl": "https://xsoftscrm.blob.core.windows.net/galaxyaccess/GalaxyPOS_1.0.0_PROD_2024-Nov-26_1444.apk"
-        }
-      ]
     }
   ]
 }
