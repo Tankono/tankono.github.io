@@ -1,0 +1,19 @@
+{
+  "userName": "lam.le@xsofts.vn",
+  "firstName": "Lam",
+  "lastName": "Le",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibGFtLmxlQHhzb2Z0cy52biIsIlVzZXJOYW1lIjoibGFtLmxlQHhzb2Z0cy52biIsIkZpcnN0TmFtZSI6IkxhbSIsIkxhc3ROYW1lIjoiTGUiLCJFbWFpbCI6ImxhbS5sZUB4c29mdHMudm4iLCJDaGFubmVscyI6InhzZiIsInJvbGUiOlsiU3VwZXJBZG1pbmlzdHJhdG9yIiwiQWRtaW5pc3RyYXRvciJdLCJuYmYiOjE3MjExMDU4NjEsImV4cCI6MTcyMTUzNzg2MSwiaWF0IjoxNzIxMTA1ODYxfQ.uMVeBFZq5kPDvNi7o8Xqn8eUjuUkcMEuSeMt8iz-9mo",
+  "photoUrl": "",
+  "roles": [
+    "SuperAdministrator",
+    "Administrator"
+  ],
+  "userId": "",
+  "merchantInfo": {
+    "channel": "xsf",
+    "corpId": "",
+    "regionId": "",
+    "dbaName": ""
+  },
+  "fullName": "Lam Le"
+}
