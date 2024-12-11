@@ -48,7 +48,6 @@
       .then(data => {
         const contentList = document.getElementById('contentList');
         contentList.innerHTML = `<ul>
-          ${data.apps}
 					${buildList(data.apps)}
 				</ul>`;
       })
